@@ -1,29 +1,16 @@
 Dessert Clicker app
 =====================
+1. เมื่อเปิด app 
+![alt text](https://github.com/63410156/DessertClicker156/blob/master/img/kotlin4.PNG)
 
-Code for Android Basics with Compose Codelab.
+2. เมื่อกดปุ่มแชร์
+![alt text](https://github.com/63410156/DessertClicker156/blob/master/img/kotlin5.PNG)
 
-Introduction
-------------
+3. กดเข้าไปใน app gmail 
+![alt text](https://github.com/63410156/DessertClicker156/blob/master/img/kotlin6.PNG)
 
-Dessert Clicker is a game about making desserts.
+4. กดกลับมายัง app เดิม
+![alt text](https://github.com/63410156/DessertClicker156/blob/master/img/kotlin7.PNG)
 
-Press the button, make a dessert, earn the big bucks.
-
-You use this app in the course to explore the Android lifecycle and log messages to
-the Android console (Logcat).
-
-Pre-requisites
---------------
-
-You need to know:
-- How to open, build, and run apps with Android Studio.
-- What an activity is, and how to create one in your app.
-- What the activity's onCreate() method does, and the kind of operations
-  that are performed in that method.
-
-
-Getting Started
----------------
-
-1. Download and run the app.
+5. กดลากปิดหน้าต่าง app
+![alt text](https://github.com/63410156/DessertClicker156/blob/master/img/kotlin8.PNG)
